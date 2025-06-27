@@ -1,54 +1,18 @@
-[
-  {
-    "title": "1. Устав Министерства юстиции",
-    "url": "https://raw.githubusercontent.com/legacy-Chay/hkewks/refs/heads/main/t1.txt"
-  },
-  {
-    "title": "2. Общая часть Уголовного кодекса",
-    "url": "https://raw.githubusercontent.com/legacy-Chay/hkewks/refs/heads/main/t2.txt"
-  },
-  {
-    "title": "2.1 Основные принципы",
-    "url": "https://raw.githubusercontent.com/legacy-Chay/hkewks/refs/heads/main/t3.txt"
-  },
-  {
-    "title": "2.2 Законодательство штата Ред-Рок об уголовной ответственности",
-    "url": "https://raw.githubusercontent.com/legacy-Chay/hkewks/refs/heads/main/t4.txt"
-  },
-  {
-    "title": "2.3 Преступление и его классификации",
-    "url": "https://raw.githubusercontent.com/legacy-Chay/hkewks/refs/heads/main/t5.txt"
-  },
-  {
-    "title": "2.4 Вина и её формы",
-    "url": "https://raw.githubusercontent.com/legacy-Chay/hkewks/refs/heads/main/t6.txt"
-  },
-  {
-    "title": "2.5 Наказание и его виды",
-    "url": "https://raw.githubusercontent.com/legacy-Chay/hkewks/refs/heads/main/t7.txt"
-  },
-  {
-    "title": "2.6 Назначение наказания",
-    "url": "https://raw.githubusercontent.com/legacy-Chay/hkewks/refs/heads/main/t8.txt"
-  },
-  {
-    "title": "2.7 Обстоятельства, исключающие уголовную ответственность",
-    "url": "https://raw.githubusercontent.com/legacy-Chay/hkewks/refs/heads/main/t9.txt"
-  },
-  {
-    "title": "3. Особенная часть Уголовного кодекса",
-    "url": "https://raw.githubusercontent.com/legacy-Chay/hkewks/refs/heads/main/t10.txt"
-  },
-  {
-    "title": "4. Федеральное Постановление",
-    "url": "https://raw.githubusercontent.com/legacy-Chay/hkewks/refs/heads/main/t11.txt"
-  },
-  {
-    "title": "5. Административный Кодекс",
-    "url": "https://raw.githubusercontent.com/legacy-Chay/hkewks/refs/heads/main/t12.txt"
-  },
-  {
-    "title": "6. Тен-коды и доклады в рацию",
-    "url": "https://raw.githubusercontent.com/legacy-Chay/hkewks/refs/heads/main/t13.txt"
-  }
-]
+{
+  "dataUrl": "https://raw.githubusercontent.com/legacy-Chay/hkewks/refs/heads/main/date.json",
+  "titles": [
+    "1. Устав Министерства юстиции",
+    "2. Общая часть Уголовного кодекса",
+    "2.1 Основные принципы",
+    "2.2 Законодательство штата Ред-Рок об уголовной ответственности",
+    "2.3 Преступление и его классификации",
+    "2.4 Вина и её формы",
+    "2.5 Наказание и его виды",
+    "2.6 Назначение наказания",
+    "2.7 Обстоятельства, исключающие уголовную ответственность",
+    "3. Особенная часть Уголовного кодекса",
+    "4. Федеральное Постановление",
+    "5. Административный Кодекс",
+    "6. Тен-коды и доклады в рацию"
+  ]
+}
